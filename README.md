@@ -1,5 +1,4 @@
 # Movie-Recommender-Engine
-# README.md for Movie Recommender (Clustering-Based)
 
 ## Project Overview
 
